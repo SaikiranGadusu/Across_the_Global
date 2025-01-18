@@ -1,0 +1,58 @@
+Plan of Action
+1. Analyze Provided Links
+Figma Design Link: Review the design for consistency, usability, and accessibility. Look for alignment issues, inconsistent spacing, color contrast, readability, and adherence to design principles.
+Testing URLs: Use the given links to perform a thorough manual testing process. Check for usability issues, responsiveness, navigation flow, and any unexpected behaviors.
+Checklist for Testing UI/UX
+UI Testing (User Interface)
+Design Consistency:
+
+Check if buttons, fonts, and colors match the design in the Figma file.
+Look for alignment, padding, and spacing issues.
+Responsiveness:
+
+Test the URLs on multiple devices (desktop, tablet, mobile).
+Ensure the layout adapts properly to different screen sizes.
+Visual Hierarchy:
+
+Confirm clear differentiation between headings, subheadings, and content.
+Ensure CTAs (Call-to-Actions) are prominent and noticeable.
+Interactive Elements:
+
+Test hover states, buttons, dropdowns, and modals.
+Ensure all interactive elements provide appropriate feedback.
+UX Testing (User Experience)
+Navigation:
+
+Check if the navigation menu is intuitive and easy to use.
+Test for broken links or unexpected redirections.
+Accessibility:
+
+Verify proper alt text for images and ARIA roles for dynamic elements.
+Test keyboard navigation and screen reader compatibility.
+Forms:
+
+Check input field validation and error messages.
+Ensure ease of use in forms (clear instructions, placeholders, and labels).
+Performance:
+
+Identify any lags or delays in loading.
+Test for smooth transitions and animations.
+Format for Submission
+Report Structure
+Introduction
+
+Brief description of the task and the tools/methods used.
+Findings
+
+UI Bugs: List each bug with screenshots, steps to reproduce, and severity.
+UX Bugs: Include a description of the issue, impact on the user, and suggested solutions.
+Suggestions for Improvement
+
+Include potential enhancements for the design based on usability principles.
+Conclusion
+
+Summarize key findings and overall assessment.
+Tools for Efficient Testing
+Browser Developer Tools: To inspect elements and analyze layout and responsiveness.
+Accessibility Testing: Use tools like Axe or Lighthouse.
+Cross-Browser Testing: Test on Chrome, Firefox, Edge, and Safari.
